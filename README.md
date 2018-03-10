@@ -1,2 +1,2 @@
 # Html
-Html tags for Nanodegree
+Html tags for Nanodegree, links to Stylesheet
